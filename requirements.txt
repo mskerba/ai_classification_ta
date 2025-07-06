@@ -96,3 +96,13 @@ urllib3
 wcwidth
 yarl
 zstandard
+sentence-transformers
+openpyxl
+openai
+pandas
+get_embedding
+fastapi
+uvicorn
+pandas
+openpyxl
+scikit-learn
