@@ -106,3 +106,7 @@ uvicorn
 pandas
 openpyxl
 scikit-learn
+langchain
+faiss-cpu
+transformers
+sentence-transformers
